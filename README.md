@@ -1,1 +1,1 @@
-# Survival-Guide in Teambition
+# Survival-Guide
