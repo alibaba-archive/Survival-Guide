@@ -6,6 +6,6 @@ We hold thses truths to be self-evident: that information belongs to be free; th
 
 Rapidly growing, we find something has been rooted here. That’s why we jotted down Teambition Guideline series to make it graspable. 
 
-Member Guide will detail the basic and most important things on working in Teambition. You will find how wages are calculated based on your education and working experiences; What perks you will receive in Teambition. To find out the details, please read them.
+Member Guide details the basic and most important things on working in Teambition. You will find how wages are calculated based on your education and working experiences; What perks you will receive in Teambition. To find out the details, please read them.
 
 Other guides is coming soon. 
