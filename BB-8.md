@@ -8,6 +8,7 @@ Florian 提议购买的 BB-8 已经从美国发货了，不日将寄到上海。
 
 说到玩具本身。这是电影中 BB-8 的实际长相：
 ![][image-1]
+
 当然，我们目前还买不到这么大的。
 
 如果想知道这个玩具如何，请移步：[http://www.sphero.com/starwars][5]。
@@ -17,6 +18,9 @@ Florian 提议购买的 BB-8 已经从美国发货了，不日将寄到上海。
 如果你觉得玩具太小儿科，相信开发文档能够让你对它更感兴趣：[http://sdk.sphero.com/][6]。还有一个疑似第三方的 Javascript SDK 供大家使用：[https://github.com/orbotix/sphero.js][7]。相信你看着文档，思绪万千，你可以去[https://www.reddit.com/r/Sphero/][8]和 Stackoverflow 上与大家疑议相与析。
 
 May the force be with you.
+</br>
+</br>
+</br>
 
 ---
 
@@ -29,6 +33,7 @@ To learn about the Star Wars timeline, visit here: [http://starwars.wikia.com/wi
 
 Okay. Now we are on the same page. It’s the real BB-8:
 ![][image-2]
+
 Unfortunately, we cannot buy it. 
 
 If you are interested in what is the BB-8 we have bought, please visit here: [http://www.sphero.com/starwars][11].
