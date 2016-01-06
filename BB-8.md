@@ -1,4 +1,4 @@
-### BB-8
+# BB-8
 
 各位，
 
@@ -18,8 +18,7 @@ Florian 提议购买的 BB-8 已经从美国发货了，不日将寄到上海。
 
 May the force be with you.
 
-
-### BB-8
+---
 
 Dear fellow colleagues,
 
@@ -40,6 +39,7 @@ Okay. Here is the interesting part. This is a toy that you can not only play wit
 [https://www.reddit.com/r/Sphero/][13].
 
 May the force be with you.
+
 
 
 Florian
