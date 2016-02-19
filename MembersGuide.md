@@ -208,7 +208,8 @@ Teambition 希望每位员工都能分享公司的进步和成功，并把自己
 4. 长按S键后按数字，保存当前高度，下次按一下即可一键到达。5. 考虑到程序员的习惯，下一批桌子的配置项将从0开始，并支持1024个选项。
 
 # 咖啡机使用指南
-![](https://dn-site.oss.aliyuncs.com/2016-02/2a97228dda9d1a2bd6ede73e90f96973449b9b8c?response-content-type=image/png =155x)
+
+<p><img src="https://dn-site.oss.aliyuncs.com/2016-02/2a97228dda9d1a2bd6ede73e90f96973449b9b8c?response-content-type=image/png" width=“155”)</p>
 
 1. 清理滤网：按机器右侧按钮，倒空咖啡渣。
 2. 加水：水量和选择的杯量一致。
