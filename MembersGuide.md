@@ -209,7 +209,9 @@ Teambition 希望每位员工都能分享公司的进步和成功，并把自己
 
 # 咖啡机使用指南
 
-<p><img src="https://dn-site.oss.aliyuncs.com/2016-02/2a97228dda9d1a2bd6ede73e90f96973449b9b8c?response-content-type=image/png" width=“155”)</p>
+![](https://dn-site.oss.aliyuncs.com/2016-02/2a97228dda9d1a2bd6ede73e90f96973449b9b8c?response-content-type=image/png =155x)
+
+<p><img src="https://dn-site.oss.aliyuncs.com/2016-02/2a97228dda9d1a2bd6ede73e90f96973449b9b8c?response-content-type=image/png" height="188">)</p>
 
 1. 清理滤网：按机器右侧按钮，倒空咖啡渣。
 2. 加水：水量和选择的杯量一致。
